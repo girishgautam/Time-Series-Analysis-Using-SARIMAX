@@ -1,2 +1,2 @@
-# MAchine Learning -Time Series
+# Machine Learning -Time Series
 Sales data prediction using SARIMAX model
