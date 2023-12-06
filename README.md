@@ -27,12 +27,5 @@ The dataset is credited to Makridakis and Wheelwright, 1989.
 * scikit-learn
 * statsmodels
 
-## Code and Resources Used
-* SciPy
-* NumPy
-* Matplotlib
-* Pandas
-* scikit-learn
-* statsmodels
 
 
