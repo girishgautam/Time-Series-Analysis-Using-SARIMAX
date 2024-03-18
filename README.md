@@ -1,4 +1,4 @@
-# Machine Learning -Time Series
+# Champagne Sales Price Prediction - Machine Learning -Time Series
 Sales data prediction using SARIMAX model
 
 ## Problem Description
